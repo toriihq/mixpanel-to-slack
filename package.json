@@ -1,0 +1,13 @@
+{
+  "name": "mixpanel-to-slack",
+  "version": "0.0.2",
+  "description": "Stream your Mixpanel events to Slack in real-time",
+  "main": "./src/index.js",
+  "repository": "https://github.com/toriihq/mixpanel-to-slack",
+  "license": "MIT",
+  "dependencies": {
+    "mixpanel-tail": "^0.0.7",
+    "promise-map-series": "^0.2.3",
+    "slack-node": "^0.1.8"
+  }
+}

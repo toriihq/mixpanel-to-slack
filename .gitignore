@@ -1,0 +1,19 @@
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Mac files
+*.DS_Store
+
+# Node
+node_modules
+
+# Yarn files
+yarn.lock 
+yarn-error.log
+
+# Env
+.env
+
